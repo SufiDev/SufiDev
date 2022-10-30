@@ -1,35 +1,65 @@
 <h1 align="center">Hi, I'm Sufi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
-chupy7/chupy7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### A little more about me
+
+```cpp
+#include <iostream>
+
+using namespace std;
+
+int main(int argc, char *argv[])
+{
+    // Sufi
+    cout << "About me:" << endl;
+
+    string pronouns = "He/him";
+
+    // I'm still mostly a beginner on these languages but I'm learning :)
+    string languages[6] = {"Javascript", "Python",
+                           "Java", "HTML",
+                           "CSS", "C++"};
+
+    return 0;
+}
+```
+
 ---
 
 <h2 align="center"> Github stats </h2>
 
-<h3 align="center">Languages</h3>
+<h3>Languages</h3>
 
+<p align="center">
+  <a href="https://github.com/chupy7/">
+    <img
+      width="60%"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=chupy7&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+      alt="Chupy7"
+    />
+  </a>
+</p>
 
-
-<h3 align="center">Stats</h3>
+<h3>Stats</h3>
 
 <p align="center">
   <a href="https://github.com/chupy7/">
     <img
       width="55%"
       src="https://github-readme-stats.vercel.app/api?username=chupy7&show_icons=true&theme=radical&hide_border=true"
+      alt="Chupy7"
     />
   </a>
   <a href="https://github.com/chupy7/">
     <img
       width="55%"
       src="https://github-readme-streak-stats.herokuapp.com/?user=chupy7&theme=radical&hide_border=true"
+      alt="Chupy7"
     />
   </a>
 </p>
@@ -108,4 +138,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-Last Edited on: 30/10/2022
+* Last Edited on: 30/10/2022
