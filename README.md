@@ -53,11 +53,11 @@ int main(int argc, char *argv[])
 <h3>Languages</h3>
 
 <p align="center">
-  <a href="https://github.com/chupy7/">
+  <a href="https://github.com/sufiDev/">
     <img
       width="60%"
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=chupy7&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
-      alt="Chupy7"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=sufiDev&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true"
+      alt="sufiDev"
     />
   </a>
 </p>
@@ -65,18 +65,18 @@ int main(int argc, char *argv[])
 <h3>Stats</h3>
 
 <p align="center">
-  <a href="https://github.com/chupy7/">
+  <a href="https://github.com/sufiDev/">
     <img
       width="55%"
-      src="https://github-readme-stats.vercel.app/api?username=chupy7&show_icons=true&theme=radical&hide_border=true"
-      alt="Chupy7"
+      src="https://github-readme-stats.vercel.app/api?username=sufiDev&show_icons=true&theme=radical&hide_border=true"
+      alt="sufiDev"
     />
   </a>
-  <a href="https://github.com/chupy7/">
+  <a href="https://github.com/sufiDev/">
     <img
       width="55%"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=chupy7&theme=radical&hide_border=true"
-      alt="Chupy7"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=sufiDev&theme=radical&hide_border=true"
+      alt="sufiDev"
     />
   </a>
 </p>
