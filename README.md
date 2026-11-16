@@ -2,7 +2,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 
 - 👀 I’m interested in multiplatform app development
-- 🌱 I’m currently learning Javascript, C++ and CMake
+- 🌱 I’m currently learning Javascript, C++ and KMP
 - ✉️ You can shoot me an email at sufian142@hotmail.com!
 
 #### A little more about me
