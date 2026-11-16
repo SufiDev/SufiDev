@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in multiplatform app development
 - 🌱 I’m currently learning Javascript, C++ and KMP
-- ✉️ You can shoot me an email at sufian142@hotmail.com!
+- ✉️ You can shoot me an email at sufian142@gmail.com!
 
 #### A little more about me
 
